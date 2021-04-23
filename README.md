@@ -2,7 +2,8 @@
 
 Collection of useful Ghidra utilities and references
 
-## Helpful Links
+## Repository Contents
 
-https://github.com/NationalSecurityAgency/ghidra/issues/1981
-https://github.com/NationalSecurityAgency/ghidra/issues/889
+* ```GBA```: Contains scripts and tools for analyzing the King: King of Atlantis GBA ROM
+    * [Supplemental blog post]()
+* ```LINKS.md```: Contains helpful links to issues and blogs that I have found useful
